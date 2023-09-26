@@ -15,6 +15,7 @@ import java.awt.Frame;
 
 public class Traducteur {
     public static void main(String[] args) {
+
         String tradPath = "src/main/resources/static/traducteur";
         String cliPath = "src/main/resources/static/commande";
 
