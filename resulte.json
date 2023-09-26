@@ -1,0 +1,40 @@
+{
+    "LIGN": [
+        { "name": "3400892797137", "startPosition": 8, "length": 35 },
+        { "name": "36550", "startPosition": 43, "length": 35 },
+        { "name": "RAMIPRIL 5 mg (Labo MYLAN), cpr séc CUH", "startPosition": 78, "length": 80 },
+        { "name": "RAMIPRIL 5 mg (Labo MYLAN), cpr séc CUH", "startPosition": 268, "length": 175 },
+        { "name": "", "startPosition": 443, "length": 175 },
+        { "name": "540", "startPosition": 158, "length": 9 },
+        { "name": "0.02500", "startPosition": 185, "length": 16 },
+        { "name": "0.02553", "startPosition": 201, "length": 16 },
+        { "name": "20210107", "startPosition": 217, "length": 35 },
+        { "name": "", "startPosition": 768, "length": 20 },
+        { "name": "", "startPosition": 832, "length": 15 },
+        { "name": "", "startPosition": 847, "length": 50 },
+        { "name": "", "startPosition": 788, "length": 20 },
+        { "name": "N/A", "startPosition": 816, "length": 3 },
+        { "name": "N/A", "startPosition": 819, "length": 3 },
+        { "name": "3400937007610", "startPosition": 1410, "length": 13 }
+    ],
+    "ENTE": [
+        { "name": "381", "startPosition": 5, "length": 35 },
+        { "name": "CHR Metz-Thionville", "startPosition": 40, "length": 35 },
+        { "name": "AAG", "startPosition": 297, "length": 15 },
+        { "name": "VIATRIS", "startPosition": 336, "length": 35 },
+        { "name": "PROD", "startPosition": 573, "length": 4 },
+        { "name": "NON", "startPosition": 857, "length": 3 },
+        { "name": "M80T", "startPosition": 577, "length": 20 },
+        { "name": "TST014", "startPosition": 534, "length": 20 },
+        { "name": "20220426", "startPosition": 554, "length": 8 },
+        { "name": "20220502", "startPosition": 562, "length": 8 },
+        { "name": "570056", "startPosition": 110, "length": 6 },
+        { "name": "PHARMACIE HOPITAL BEL AIR", "startPosition": 145, "length": 35 },
+        { "name": "57100 THIONVILLE", "startPosition": 215, "length": 41 },
+        { "name": "", "startPosition": 597, "length": 200 },
+        { "name": "MEDBA", "startPosition": 1040, "length": 100 },
+        { "name": "TST014", "startPosition": 534, "length": 20 },
+        { "name": "26570280300510", "startPosition": 1140, "length": 14 },
+        { "name": "39929538500062", "startPosition": 322, "length": 14 }
+    ]
+}

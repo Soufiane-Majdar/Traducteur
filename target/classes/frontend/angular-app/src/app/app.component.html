@@ -1,0 +1,63 @@
+
+<nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img
+        src="assets/imgs/cegedim.png"
+        class="me-2"
+        height="20"
+        alt="MDB Logo"
+        loading="lazy"
+      />
+      <small>Home</small>
+    </a>
+  </div>
+</nav>
+
+
+
+
+
+
+<div class="container mt-5">
+
+  <div class="form-group">
+
+
+
+
+<!-- Form to sent files using post method to spring controller from angular -->
+    <form action="api/upload" method="POST" enctype="multipart/form-data">
+      <div class="form-group">
+          <label for="file1"> Choisir le fichier traducteur</label>
+          <input type="file" class="form-control " name="file1" id="file1" >
+
+
+
+          <label for="file2">Choisir le fichier de commande</label>
+          <input type="file" class="form-control" name="file2" id="file2" >
+<hr />
+        <label for="file3">Choisir le Repertoire pour la Resulta</label>
+        <input type="text" class="form-control" name="file3" id="file3"  webkitdirectory>
+
+      </div>
+  <br />
+        <div style="text-align: center;">
+          <button class="btn btn-outline-primary mt-2" >Générer</button>
+        </div>
+
+    </form>
+
+
+  </div>
+  <br>
+  <br>
+
+
+
+
+
+    <script src="assets/js/bootsrap.bundle.min.js"></script>
+    <!-- js -->
+    <script src="asserts/js/main.js"></script>
+</div>

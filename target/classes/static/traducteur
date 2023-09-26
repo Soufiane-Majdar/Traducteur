@@ -1,0 +1,35 @@
+01 04 ENTE   05  35 emetteur
+01 04 ENTE   40  35 emt_lib
+01 04 ENTE  297  15 recepteur
+01 04 ENTE  336  35 rcp_lib
+01 04 ENTE  573  04 indicessai
+01 04 ENTE  857  03 urgence
+01 04 ENTE  577  20 codeacheteur
+01 04 ENTE  534  20 docnum VALEUR=%!codeacheteur!%%!docnum!%
+01 04 ENTE  554  08 docdate FORMAT=%aaaa%%mm%%jj%
+01 04 ENTE  562  08 datliv FORMAT=%aaaa%%mm%%jj%
+01 04 ENTE  110  06 codeDP
+01 04 ENTE  145  35 libelleDP1
+01 04 ENTE  215  41 libelleDP2
+01 04 ENTE  597 200 commentaire
+01 04 LIGN   00  00 inddet
+01 04 LIGN   08  35 codecip
+01 04 LIGN   43  35 codeinterne
+01 04 LIGN   78  80 description1
+01 04 LIGN  268 175 description2
+01 04 LIGN  443 175 description3
+01 04 LIGN  158  09 qte
+01 04 LIGN  185  16 prix_unit_ht
+01 04 LIGN  201  16 prix_unit_ttc
+01 04 LIGN  217  35 marche
+01 04 LIGN  768  20 lot_extrait
+01 04 LIGN  832  15 detail_code_service_demandeur
+01 04 LIGN  847  50 detail_libelle_service_demandeur
+01 04 LIGN  788  20 serie_extrait
+01 04 LIGN  816  03 brenouveler
+01 04 LIGN  819  03 bfacturer
+01 04 LIGN 1410  13 code_gef_cip
+01 04 ENTE 1040 100 code_service_executant
+01 04 ENTE  534  20 cdenumori
+01 04 ENTE 1140  14 numsiretIV
+01 04 ENTE  322  14 numsiretSU
